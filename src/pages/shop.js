@@ -54,7 +54,7 @@ const Shop = ({ products }) => {
     );
     setUn(newUn);
   };
-  console.log(dat);
+  console.log(un);
 
   return (
     <div className="shop">
